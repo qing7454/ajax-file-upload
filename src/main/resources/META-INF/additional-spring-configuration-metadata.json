@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "sourceType": "com.qing.fileupload.properties.FileProperties",
+      "description": "File Properties."
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-path",
+      "sourceType": "com.qing.fileupload.properties.FileProperties",
+      "description": "File Upload Path."
+    }
+  ],
+  "hints": [
+    {
+      "name": "file.upload-path",
+      "type": "java.lang.String"
+    }
+  ]
+}
